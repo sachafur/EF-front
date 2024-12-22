@@ -1,8 +1,8 @@
 import React from "react";
-import ChatList from '../Components/ChatList/ChatLlist';
-import ChannelList from '../Components/ChannelList/ChannelList'; 
+import ChatList from '../../Components/ChatList/ChatLlist';
+import ChannelList from '../../Components/ChannelList/ChannelList'; 
 import { useParams } from "react-router-dom";
-import { obtrnerWorkspacePorId } from "../../data";
+import { obtrnerWorkspacePorId } from "../../../data";
 
 const WorckspaceScreen = () => {
     const {worspace_id} = useParams()
