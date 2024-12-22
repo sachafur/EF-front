@@ -46,4 +46,4 @@ const getAuthenticatedHeaders = () => {
 
 
 
-export {getAuthenticatedHeaders,getUnnauthenticatedHeaders}
+export {getAuthenticatedHeaders, getUnnauthenticatedHeaders}

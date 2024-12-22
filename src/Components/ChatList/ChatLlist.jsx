@@ -41,5 +41,4 @@ const ChatList = ({messages}) => {
 
 }
 
-
 export default ChatList
