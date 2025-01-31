@@ -1,7 +1,7 @@
 import React from "react"
 import Register from "./Screen/Register/Register.jsx"
 import Login from './Screen/Login/Login.jsx'
-import ForgotPassword from '/Screen/ForgotPassword/ForgotPassword.jsx'
+import ForgotPassword from './Screen/ForgotPassword/ForgotPassword.jsx'
 import { Route, Routes } from "react-router-dom"
 import CreateWorkspaceScreen from "./Screen/CreateWorkspace/CreateWorkspaceScreen.jsx"
 import WorckspaceScreen from "./Screen/WorkspaceScreen/WorkspaceScreen.jsx"
