@@ -1,10 +1,11 @@
 import React from "react"
-import Register from "src/Screen/Register/Register.jsx"
-import Login from 'src/Screen/Login/Login.jsx'
-import ForgotPassword from 'src/Screen/ForgotPassword/ForgotPassword.jsx'
+import Register from "./Screen/Register/Register.jsx"
+import Login from './Screen/Login/Login.jsx'
+import ForgotPassword from '/Screen/ForgotPassword/ForgotPassword.jsx'
 import { Route, Routes } from "react-router-dom"
-import CreateWorkspaceScreen from "src/Screen/CreateWorkspace/CreateWorkspaceScreen.jsx"
-import WorckspaceScreen from "src/Screen/WorkspaceScreen/WorkspaceScreen.jsx"
+import CreateWorkspaceScreen from "./Screen/CreateWorkspace/CreateWorkspaceScreen.jsx"
+import WorckspaceScreen from "./Screen/WorkspaceScreen/WorkspaceScreen.jsx"
+import Home from './Screen/Home/Home.jsx'
 
 function App() {
 
